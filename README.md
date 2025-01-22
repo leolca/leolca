@@ -32,7 +32,7 @@ You can delve into my publication history here:
 
 ### Contact Me
 
-- Email: ![Contact Me](path-to-your-contact-image.png)
+- Email: ![Contact Me](bitmap.png)
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/leonardo-ara%C3%BAjo-891b175/)
 - X (formerly Twitter): [X Handle](@leollca)
 
